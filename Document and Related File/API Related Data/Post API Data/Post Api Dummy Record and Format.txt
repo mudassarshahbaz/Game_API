@@ -1,0 +1,17 @@
+{
+   "UserId":"1",
+   "PlayerId":1,
+   "GameName":"Football",
+   "Timestamp":20230226,
+   "Sessions":[
+      {
+         "DurationSeconds":20,
+         "StartTimeStamp":20230226132344,
+         "EndTimeStamp":20230226142344,
+         "PositiveActions":5,
+         "NegativeActions":1,
+         "DifficultyLevel":0,
+         "Outcome":"Test2"
+      }
+   ]
+}
